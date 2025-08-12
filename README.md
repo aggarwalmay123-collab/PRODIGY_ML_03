@@ -89,11 +89,11 @@ This project serves as a foundation for more complex computer vision systems and
 
 ## 📸 Sample Predictions for cat and dog 
 
-![Predictions](CatPredict.png)  
+![Predictions](Screenshot 2025-08-12 114015.png)  
 
 
 
-![Predictions](DogPredict.png)  
+![Predictions]()  
 
 ---
 
