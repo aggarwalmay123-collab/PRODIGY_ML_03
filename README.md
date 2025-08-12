@@ -93,7 +93,7 @@ This project serves as a foundation for more complex computer vision systems and
 
 
 
-![Predictions]()  
+![Predictions](Screenshot 2025-08-12 114028.png)  
 
 ---
 
